@@ -1,9 +1,10 @@
 <div align="center">
 
 # 👋 Hey there! My name is Eliyahu Malka 😎  
-
+*I see myself in this GIF... do you too?* 
+<br>
 <img src="forGit.webp" width="400"/>
-*I see myself in this GIF... do you too?*  
+ 
 
 ---
 
