@@ -1,4 +1,6 @@
-# 👋 Hey there ! My name is I'm Eliyahu Malka 😎  
+<center>
+
+# 👋 Hey there! My name is Eliyahu Malka 😎  
 
 <img src="C:/Users/user/Pictures/forGit.webp" width="400"/>  
 *I see myself in this GIF... do you too?*  
@@ -43,3 +45,6 @@
 ---
 
 ## 🚀 Let's Build Something Great Together!  
+
+</center>
+
