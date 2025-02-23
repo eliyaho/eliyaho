@@ -1,6 +1,6 @@
-# 👋 Hey there! I'm Eliyahu Malka 😎  
+# 👋 Hey there ! My name is I'm Eliyahu Malka 😎  
 
-<img src="https://media.giphy.com/media/YOUR_GIF_URL.gif" width="400"/>  
+<img src="C:/Users/user/Pictures/forGit.webp" width="400"/>  
 *I see myself in this GIF... do you too?*  
 
 ---
@@ -24,7 +24,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username&layout](https://github.com/eliyaho)=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)  
 
 ---
